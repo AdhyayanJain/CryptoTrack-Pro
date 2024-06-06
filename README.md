@@ -1,8 +1,6 @@
 # Crypto Checker
 Crypto Checker is a cross-platform software for tracking cryptocurrency. It's my first real program I've built after learning programming, so I hope you'll enjoy it without difficulties as I've tested it quite a lot. If you encounter any bugs or want features added it's just to create a ticket.
 
-[View images of the software](https://imgur.com/a/XpPJs)
-<br/>[Download](https://github.com/Johandrex/crypto-checker/releases)
 
 ### Features
 - Sorting, Filtering, Details about cryptocurrencies
